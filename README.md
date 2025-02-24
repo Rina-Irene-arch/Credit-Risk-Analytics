@@ -1,4 +1,4 @@
-# Credit-Risk-Analytics-Intern-Project
+# Risk Analysis in Banking
 This project delves into the fundamentals of risk analytics within the banking and financial services sector. The primary objective is to gain insight into how data is leveraged to mitigate the risk of financial loss associated with lending to customers.
 ## Business Understanding:
 Loan providing companies often face challenges in extending loans to individuals with insufficient or non-existent credit histories. Some consumers exploit this by defaulting on their loans. As an employee of a consumer finance company specializing in lending to urban customers, your task is to conduct Exploratory Data Analysis (EDA) to identify patterns in the data. This analysis aims to ensure that loan applicants capable of repayment are not unfairly rejected.
